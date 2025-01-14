@@ -17,5 +17,5 @@
 
 Файл git.html
 1. тег <a href="mac.html"> нужно заменить mac.html на ../index.html
-2. ...
+2. Лишний пробел :  &copy; 202 4. SkyPro , а надо :  &copy; 2024. SkyPro
 3. ...
